@@ -1,0 +1,44 @@
+<connectionStrings>
+  <add name="SCW_Dev" connectionString="Data Source=eg-icmsqldv-b02;Initial Catalog=ICM_Staging;User ID=ICM_user;Password=ICM_user;Max Pool Size=1000;Pooling=true;Connection Timeout=300"
+   providerName="System.Data.SqlClient" />
+  <add name="SCW_QA" connectionString="Data Source=C435ANW;Initial Catalog=ICM_Staging;User ID=ICM_user;Password=ICM_user;Max Pool Size=1000;Pooling=true;Connection Timeout=300"
+   providerName="System.Data.SqlClient"  />
+  <add name="SCW_QC" connectionString="Data Source=C111VKS;Initial Catalog=ICM_Staging;User ID=ICM_user;Password=01!#icm;Max Pool Size=1000;Pooling=true;Connection Timeout=300"
+   providerName="System.Data.SqlClient"/>
+  <add name="SCW_PROD" connectionString="Data Source=C111JFS;Initial Catalog=ICM_Staging;User ID=ICM_user;Password=01!#icm;Max Pool Size=1000;Pooling=true;Connection Timeout=300"
+   providerName="System.Data.SqlClient"/>
+
+
+  <add name="Varicent_Dev" connectionString="Data Source=eg-icmsqldv-b02;Initial Catalog=TLR_ICM_Dev;User ID=thomson_reuters_user;Password=thomson_reuters_user"
+   providerName="System.Data.SqlClient" />
+  <add name="Varicent_QA" connectionString="Data Source=C435ANW;Initial Catalog=TLR_ICM_QA;User ID=thomson_reuters_user;Password=thomson_reuters_user"
+   providerName="System.Data.SqlClient"  />
+  <add name="Varicent_QC" connectionString="Data Source=C111VKS;Initial Catalog=TLR_ICM_QC;User ID=thomson_reuters_user;Password=02!#icm"
+   providerName="System.Data.SqlClient"/>
+  <add name="Varicent_PROD" connectionString="Data Source=C111JFS;Initial Catalog=ICM;User ID=thomson_reuters_user;Password=02!#icm"
+   providerName="System.Data.SqlClient"/>
+
+
+
+  <add name="SCW_Data_Load_DEV" connectionString="Data Source=eg-icmsqldv-b02;Initial Catalog=BO_QWF;User ID=DATA_LOAD_DEV;Password=DATA_LOAD_DEV;"
+   providerName="System.Data.SqlClient" />
+
+  <add name="SCW_Data_Load_QA" connectionString="Data Source=C435ANW;Initial Catalog=BO_QWF;User ID=DATA_LOAD_QA;Password=DATA_LOAD_QA;"
+   providerName="System.Data.SqlClient" />
+
+  <add name="SCW_Data_Load_QC" connectionString="Data Source=eg-icmsqlqc-a02;Initial Catalog=BO_QWF;User ID=DATA_LOAD_QC;Password=DATA_LOAD_QC;"
+   providerName="System.Data.SqlClient" />
+
+  <add name="SCW_Data_Load_PROD" connectionString="Data Source=C111JFS;Initial Catalog=BO_QWF;User ID=DATA_LOAD;Password=DATA_LOAD"
+   providerName="System.Data.SqlClient"/>
+
+
+  <add name="QWF_DEV" connectionString="Data Source=EG-ICMSQLDV-B02;Initial Catalog=BO_QWF;Persist Security Info=True;User ID=QWF_User;Password=QWF_User;Connect Timeout=60;"
+     providerName="System.Data.SqlClient" />
+  <add name="QWF_QA" connectionString="Data Source=C435ANW;Initial Catalog=BO_QWF;Persist Security Info=True;User ID=QWF_User_qa;Password=QWF_User_qa;"
+   providerName="System.Data.SqlClient"  />
+  <add name="QWF_QC" connectionString="Data Source=eg-icmsqlqc-a02;Initial Catalog=BO_QWF;Persist Security Info=True;User ID=QWF_User_qc;Password=QWF_User_qc;Connect Timeout=60;"
+    providerName="System.Data.SqlClient" />
+  <add name="QWF_PROD" connectionString="Data Source=C111JFS;Initial Catalog=BO_QWF;Persist Security Info=True;User ID=QWF_User;Password=QWF_User;Connect Timeout=60;"
+    providerName="System.Data.SqlClient" />
+</connectionStrings>

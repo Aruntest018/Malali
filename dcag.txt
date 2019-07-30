@@ -1,0 +1,7 @@
+lon-dcag.int.thomsonreuters.com (London)
+far-dcag.int.thomsonreuters.com (Fareham/UK1)
+eag-dcag.int.thomsonreuters.com (Eagan)
+pln-dcag.int.thomsonreuters.com (Plano)
+hzl-dcag.int.thomsonreuters.com (Hazelwood)
+sng-dcag.int.thomsonreuters.com (Singapore)
+hkg-dcag.int.thomsonreuters.com (Hong Kong)

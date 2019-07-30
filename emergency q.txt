@@ -1,0 +1,25 @@
+Do we have P1/P2 for this ? If yes, what’s the incident number ?
+
+What’s the revenue impact ?
+
+Is it a brand impact ?
+
+Is it a significant service impact ? If yes, how many users are impacted ?
+
+Why now, can't it wait?
+
+Alternative options ?
+
+Tested? 
+
+Fall back understood and tested?
+
+Impact fully understood?
+
+If any impact, is it signed off by those impacted?
+
+Are we doing this at the safest time?
+
+Sufficient post change checks?
+
+Sufficient post change support?
